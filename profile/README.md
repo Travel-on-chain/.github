@@ -18,7 +18,7 @@ The video on YouTube: [Travel on Chain](https://youtu.be/iH6rStbv27Q)
 
 ### 🌟 Inspiration
 
-Our original intention was to leverage fun and engaging activities to motivate people to participate in offline tourism and experience the beauty of the world firsthand. At the same time, by harnessing the power of Web3 technology, we aim to provide tangible rewards and incentives for people as they travel. This approach ensures they receive positive feedback, encouraging them to continually explore new areas and discover the unknown.
+Our original intention was to leverage fun and engaging activities to motivate people to participate in offline tourism and experience the beauty of the world firsthand. At the same time, by harnessing the power of Web3 technology, we aim to provide tangible rewards and incentives for people as they travel. This approach ensures they receive positive feedback, encouraging them to explore new areas and discover the unknown continually.
 
 ### 🚀 What It Does
 
@@ -30,7 +30,7 @@ Through continuous communication and brainstorming among team members, everyone 
 
 ## 🌪️ Challenges We Ran Into
 
-Given our limited understanding of the overall Web3 industry, we have been using our spare time to learn industry knowledge and related development skills. Our team members, all practitioners from the Web2 industry, are highly interested in the Web3 industry. However, our knowledge gap has made it difficult for us to create more complex content. Additionally, this competition marks the first time we have worked together, so we also need time to work on team coordination.
+Given our limited understanding of the overall Web3 industry, we have been using our spare time to learn industry knowledge and related development skills. Our team members, all practitioners from the Web2 industry, are highly interested in the Web3 industry. However, our knowledge gap has made it difficult for us to create more complex content. This competition marks the first time we have worked together, so we also need time to work on team coordination.
 
 ### 🎉 Accomplishments That We're Proud Of
 
@@ -38,13 +38,13 @@ With our enthusiasm and responsible attitude, we completed the project and achie
 
 ## 📚 What We Learned
 
-We have gained a deeper understanding of the industry, enabling us to better understand and enter this promising field. At the same time, we have also acquired many useful development skills, making us more professional. Our progress has been rapid thanks to the Chainlink training courses.
+We have gained a deeper understanding of the industry, enabling us to understand better and enter this promising field. At the same time, we have also acquired many useful development skills, making us more professional. Our progress has been rapid thanks to the Chainlink training courses.
 
 ### 🩹 Technical Challenges and Implementations
 
 1. **Pricing for Chainlink VRF Invocation**:
    - Due to the dynamic nature of gas fees, we have adopted a fixed pricing model to cover the total costs of Chainlink and on-chain transactions for each dice throw.
-   - To optimize costs and improve user experience, we plan to aggregate user requests over a specific time period on the server-side and then invoke the Chainlink VRF service collectively.
+   - To optimize costs and improve user experience, we plan to aggregate user requests over a specific period on the server side and then invoke the Chainlink VRF service collectively.
 2. **Contract Payment Methods**:
    - Currently, the contract only supports ETH as the payment method. However, we aim to expand this by integrating more payment options such as LINK, AVAX, BNB, etc. This will require the use of an additional price conversion contract to facilitate the switch between different currencies.
 3. **Contract VRF Call Return Speed**:
@@ -92,7 +92,7 @@ And there are more plans to be added.
   <br>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,solidity,vscode,linux,photoshop,premiere,typescript,javascript,figma" />
+    <img src="https://skillicons.dev/icons?i=git,solidity,go,vscode,linux,photoshop,premiere,typescript,javascript,figma" />
   </a>
 </p>
 
