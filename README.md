@@ -92,7 +92,7 @@ And there are more plans to be added.
   <br>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,solidity,vscode,linux,photoshop,premiere,typescript,javascript,figma" />
+    <img src="https://skillicons.dev/icons?i=git,solidity,go,vscode,linux,photoshop,premiere,typescript,javascript,figma" />
   </a>
 </p>
 
